@@ -4,6 +4,7 @@
 #include<assert.h>
 #define MAX_CHARACTERS 1005
 #define MAX_PARAGRAPHS 5
+//the define method is used here
 
 
 char* kth_word_in_mth_sentence_of_nth_paragraph(char**** document, int k, int m, int n) {
