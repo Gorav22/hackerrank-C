@@ -4,7 +4,7 @@
 This repository contains my solutions to the C programming challenges on HackerRank. I have successfully completed various challenges and attained a Rank 1 and a Gold Batch in C programming.
 
 ## HackerRank Profile
-- [Link to my HackerRank Profile]([https://www.hackerrank.com/](https://www.hackerrank.com/profile/goravjindal86))
+ <a href="https://www.hackerrank.com/profile/goravjindal86">Link to my HackerRank Profile</a>
 
 ## Achievements
 - **Rank 1**: Achieved the top position in C programming challenges on HackerRank.
